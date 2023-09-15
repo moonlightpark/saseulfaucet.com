@@ -1,5 +1,5 @@
 # saseulfaucet.com
-SaseulFaucet.com project
+SaseulFaucet.com project schdule
 
 1) SaseulFaucet.com domain registed on 2023.09.15 (V)
 2) testnet node mining start on 2023.09.15 (V)
